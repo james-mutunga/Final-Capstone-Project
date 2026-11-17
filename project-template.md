@@ -26,4 +26,4 @@
 > Be specific. Think money saved, process improves, better decisions made
 > That’s your **real value**
 
-**The Business Benefit:** Gives store managers a data-backed playbook to eliminate layout bottlenecks ad increase revenue per square foot. 
+**The Business Benefit:** Gives store managers a data-backed playbook to eliminate layout bottlenecks and increase revenue per square foot. 
