@@ -20,7 +20,6 @@
 > Share the “aha!” moments, they matter more that the visuals
 
 - Does visiting the bakery entrance first boost total spend? 
-
 - How much does checkout queue wait time hurt impulse sales?
 
 4. How would a business or a community (for Social Impact Projects) benefit from your work?
