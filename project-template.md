@@ -1,4 +1,5 @@
 # 1. What is the problem you are solving?
+> Businesses or your audience care about problems. Make the problem clear and relatable.
 
 Kenya's tourism industry consists of different segments, including international travel, accommodation, wildlife tourism, cultural attractions and conference tourism.
 
@@ -6,7 +7,7 @@ However, overall tourism growth does not necessarily mean that all these segment
 
 **Problem statement:**
 
-There is a need to understand how different segments of Kenya's tourism industry are performing, identify emerging trends and highlight areas that may require attention.
+There is a need to understand how the different segments of Kenya's tourism industry are performing, how their trends compare, and where growth opportunities or performance gaps may exist.
 
 **Audience:**
 
@@ -19,6 +20,10 @@ How are different segments of Kenya's tourism industry performing, and what do r
 ---
 
 # 2. What tools did you use?
+
+> Python? GeoPandas? Google BigQuery?
+> Tell your audience how you got the answer. Tools show your capability.
+> Dive deep into this in your technical article.
 
 The project will use the following tools:
 
@@ -33,9 +38,20 @@ The primary data source will be the Kenya National Bureau of Statistics (KNBS) E
 
 # 3. What insights did you or do you want to discover? What solutions do you want to offer?
 
+> Don’t just say “dashboard done.”
+> Share the “aha!” moments. They matter more than the visuals.
+
 The project aims to uncover patterns in Kenya's tourism industry and identify areas of growth, underperformance and potential opportunities.
 
 ### 1. Tourism Demand – How is visitor demand changing?
+
+**Tables:**
+
+- Table 12.1 — Monthly International Visitor Arrivals
+- Table 12.2 — International Visitor Arrivals by Purpose of Visit
+- Table 12.4 — Departing Visitors by Country of Residence and Purpose of Visit
+
+**Analysis:**
 
 - Analyse international visitor arrivals over time.
 - Identify the main purposes of international visits to Kenya.
@@ -48,18 +64,33 @@ How is international tourism demand changing, which purposes of travel contribut
 
 ### 2. Accommodation Performance – Is accommodation capacity translating into occupancy?
 
-- Compare available hotel bed-nights against occupied bed-nights.
+**Tables:**
+
+- Table 12.7 — Hotel Bed-Nights Occupancy by Country of Residence
+- Table 12.8 — Hotel Bed-Nights by Zone
+
+**Analysis:**
+
+- Compare available hotel bed-nights against occupied bed-nights, where the data permits.
 - Examine changes in hotel occupancy rates over time.
 - Investigate the contribution of domestic and international visitors to accommodation demand.
 - Compare hotel bed-night performance across Kenya's tourism zones.
 
 **Potential insight:**
 
-Is accommodation capacity being utilised effectively, how has occupancy changed over time, and how much does domestic tourism contribute to hotel demand?
+How has hotel occupancy changed over time, how much does domestic tourism contribute to hotel demand, and what differences emerge across tourism zones?
 
 ### 3. Tourism Attractions – Which attractions are attracting visitors?
 
-- Compare visitor numbers to national parks and game reserves against museums and historical sites.
+**Tables:**
+
+- Table 12.11 — Visitors to National Parks and Game Reserves
+- Table 12.12 (2) — Visitors to National Parks and Game Reserves by Category and Residency
+- Table 12.13 — Visitors to Museums, Snake Parks and Historical Sites
+
+**Analysis:**
+
+- Examine visitor trends across national parks, game reserves, museums and historical sites, identifying differences in growth and visitor patterns.
 - Examine how visitor numbers to these attractions change over time.
 - Identify individual attractions experiencing growth or decline.
 - Examine visitor numbers by residency and category where the data permits.
@@ -69,6 +100,12 @@ Is accommodation capacity being utilised effectively, how has occupancy changed 
 Are wildlife attractions experiencing different visitor trends from cultural and historical attractions, and what opportunities could this reveal for diversifying Kenya's tourism offering?
 
 ### 4. Conference Tourism – How is Kenya's conference tourism sector performing?
+
+**Table:**
+
+- Table 12.12 — Indicators of Conference Tourism
+
+**Analysis:**
 
 - Analyse changes in the number of local and international conferences over time.
 - Examine the number of delegates attending local and international conferences.
@@ -87,6 +124,9 @@ The analysis will help tourism stakeholders, businesses and policymakers underst
 
 # 4. How would a business or a community benefit from your work?
 
+> Be specific. Think money saved, processes improved, better decisions made.\
+> That’s your **real value**.
+
 The analysis could help tourism businesses and stakeholders make more informed decisions by showing how tourism demand, accommodation performance, visitor attractions and conference tourism are changing in Kenya.
 
 For example:
@@ -100,39 +140,5 @@ For example:
 **Tourism planners and policymakers** could use the findings to identify areas that may need attention and opportunities for tourism development.
 
 Ultimately, the project aims to provide a clearer picture of the state of tourism in Kenya and support better-informed planning and business decisions.
-=======
-1. What is the problem you are solving?
-> Businesses or your audience care about problems. Make the problem clear and relatable
 
-**Who we are helping:** owners and managers of sit-down food and drink
-businesses (restaurants, cafes and bars) who are planning a renovation.
-
-**Why:** renovations are costly, and owners need to decide where a limited
-budget will make the biggest difference to their customers.
-
-**The problem:** business owners invest a lot of money in renovations. But how
-many of those renovations actually improve the customer experience, and how
-many make no real difference to customers?
-
-Instead of starting from a checklist of features, this project uses customer
-reviews to see which parts of a space customers talk about, which of those go
-with better or worse ratings, and what else customers raise that owners may
-not have thought to consider.
-
-**Core question:** Which parts of the space do customers actually notice and
-respond to, and which changes are unlikely to matter to them?
-
-2. What tools did you use?
-> Python? GeoPanadas? Google Big Query?
-> Tell your audience how you got the answer,  tools show your capability
-> Dive deep in this in your technical  article
-
-3. What insights did you or do you want to discover?/ What Solutions do you want to offer? Do People even need these solutions?
-> Don’t just say “dashboard done.”
-> Share the “aha!” moments, they matter more that the visuals
-
-4. How would a business or a community (for Social Impact Projects) benefit from your work?
-> Be specific. Think money saved, process improves, better decisions made
-> That’s your **real value**
-
->>>>>>> origin/main
+By bringing these different tourism indicators together, the project can help stakeholders look beyond overall tourism growth and understand which segments are driving that growth, where performance is changing, and where further investigation may be needed.
