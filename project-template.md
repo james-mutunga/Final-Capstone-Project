@@ -1,7 +1,7 @@
 # 1. What is the problem you are solving?
 > Businesses or your audience care about problems. Make the problem clear and relatable.
 
-Kenya's tourism industry consists of different segments, including international travel, accommodation, wildlife tourism, cultural attractions and conference tourism.
+Kenya's tourism industry consists of different segments, including *international travel*, *accommodation*, *wildlife tourism*, *cultural attractions* and *conference tourism*.
 
 However, overall tourism growth does not necessarily mean that all these segments are performing equally well. Some may be experiencing growth, while others may be growing more slowly or making different use of their available capacity.
 
