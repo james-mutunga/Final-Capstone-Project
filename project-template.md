@@ -1,13 +1,13 @@
-# 1. What is the problem you are solving?
+**# 1. What is the problem you are solving?**
 > Businesses or your audience care about problems. Make the problem clear and relatable.
 
-Kenya's tourism industry consists of different segments, including *international travel*, *accommodation*, *wildlife tourism*, *cultural attractions* and *conference tourism*.
+Kenya's tourism industry comprises several interconnected segments, including *international travel*, *accommodation*, *wildlife tourism*, *cultural attractions* and *conference tourism*.
 
-However, overall tourism growth does not necessarily mean that all these segments are performing equally well. Some may be experiencing growth, while others may be growing more slowly or making different use of their available capacity.
+Although overall tourism growth provides an important measure of the industry's performance, it may conceal differences between these segments. Visitor demand, accommodation utilisation, attraction attendance and conference activity may follow different trends, with some segments performing better than others.
 
 **Problem statement:**
 
-There is a need to understand how the different segments of Kenya's tourism industry are performing, how their trends compare, and where growth opportunities or performance gaps may exist.
+There is therefore a need to examine the performance of these segments individually and collectively, compare their trends, and identify areas of growth, potential opportunities and performance gaps that may require further attention.
 
 **Audience:**
 
@@ -124,7 +124,7 @@ The analysis will help tourism stakeholders, businesses and policymakers underst
 
 # 4. How would a business or a community benefit from your work?
 
-> Be specific. Think money saved, processes improved, better decisions made.\
+> Be specific. Think money saved, processes improved, better decisions made.
 > That’s your **real value**.
 
 The analysis could help tourism businesses and stakeholders make more informed decisions by showing how tourism demand, accommodation performance, visitor attractions and conference tourism are changing in Kenya.
